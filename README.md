@@ -1,3 +1,6 @@
+Nama: Muhammad Helmi Hibatullah
+NIM: 16520340
+
 ## APA ITU FLUTTER?
 
 Flutter adalah UI toolkit dari Google untuk membangun aplikasi mobile, web, dan desktop yang indah dan natively compiled dari suatu basis kode tunggal.
