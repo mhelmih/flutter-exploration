@@ -1,6 +1,5 @@
 ## APA ITU FLUTTER?
 
-<img>
 Flutter adalah UI toolkit dari Google untuk membangun aplikasi mobile, web, dan desktop yang indah dan natively compiled dari suatu basis kode tunggal.
 
 ## Kelebihan Flutter
@@ -21,5 +20,7 @@ Widget-widget Flutter menggabungkan semua perbedaan platform penting seperti scr
 1. Pada Flutter, setiap ada perubahan yang kita lakukan, kita tidak perlu kompilasi atau build ulang untuk melihat hasilnya. Sedangkan pada Android Studio, kita harus melakukan build APK setiap ingin men-debug dan melihat hasil aplikasi pada emulator.
 2. Bahasa pemrograman yang digunakan Flutter adalah Dart, sedangkan Android Studio menggunakan Java dan Kotlin.
 3. Aplikasi yang dibuat dengan Flutter dapat dibuild ke Android dan iOS. Sedangkan Android Studio hanya bisa dibuild ke Android saja.
+
+
 
 Sumber: https://flutter.dev/ dan https://www.petanikode.com/flutter-linux/
