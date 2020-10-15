@@ -1,5 +1,4 @@
-Nama: Muhammad Helmi Hibatullah
-NIM: 16520340
+Muhammad Helmi Hibatullah 16520340
 
 ## APA ITU FLUTTER?
 
